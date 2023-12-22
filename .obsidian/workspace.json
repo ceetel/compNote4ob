@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34ab48d382c6f214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Studio 2022 intellisense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Api/uri.md",
+                "file": "Visual Studio 2022 intellisense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Api/uri.md",
+                "file": "Visual Studio 2022 intellisense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Api/uri.md"
+                "file": "Visual Studio 2022 intellisense.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "222a0a45c4f96c7f",
+  "active": "34ab48d382c6f214",
   "lastOpenFiles": [
-    "Api/REST full api.md",
     "Api/uri.md",
+    "Visual Studio 2022 intellisense.md",
+    "Api/REST full api.md",
     "Api"
   ]
 }
